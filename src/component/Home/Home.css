@@ -1,0 +1,9 @@
+.home{
+    background-color:#1ABC9C;
+}
+.line{
+    border: 2px solid white !important;
+    background-color: white;
+    opacity: 1 !important;
+    width: 150px !important;
+}
